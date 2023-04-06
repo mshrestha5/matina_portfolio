@@ -7,7 +7,7 @@ import P1 from "../../assets/p1.jfif";
 import P3 from "../../assets/p3.png";
 
 import IMG6 from "../../assets/portfolio6.jpg";
-import D1 from "../../assets/D1.gif";
+// import D1 from "../../assets/D1.gif";
 import PRIME1 from "../../assets/prime1.PNG";
 
 const data = [
