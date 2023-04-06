@@ -7,12 +7,12 @@ import { AiFillYoutube } from "react-icons/ai";
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className="footer__logo">
+      <a href="/" className="footer__logo">
         Portfolio
       </a>
       <ul className="permalinks">
         <li>
-          <a href="#">Home</a>
+          <a href="/">Home</a>
         </li>
         <li>
           <a href="#about">About</a>
